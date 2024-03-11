@@ -10,7 +10,7 @@ class HomeScreenController {
     const Color.fromARGB(255, 240, 197, 212),
     const Color.fromARGB(255, 153, 176, 196),
     const Color.fromARGB(255, 193, 237, 194),
-    const Color.fromARGB(255, 238, 150, 150)
+    const Color.fromARGB(255, 238, 150, 150),
   ];
 
   // Color selectedColor = Colors.white;
