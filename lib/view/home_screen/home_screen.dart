@@ -1,7 +1,5 @@
 
 
-// ignore_for_file: prefer_const_constructors
-
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import 'package:to_do_app/controller/home_screen_controller.dart';
